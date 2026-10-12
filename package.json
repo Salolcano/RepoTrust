@@ -1,0 +1,1 @@
+{"name":"repotrust","private":true,"scripts":{"test":"python3 -m unittest discover -s tests","simulate":"python3 scripts/simulate.py"}}
